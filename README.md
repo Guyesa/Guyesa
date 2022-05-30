@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Guyesa
-- 👀 I’m interested in web apps development
+- 👋 Hi, I’m Imano
+- 👀 I’m interested in web application development
 - 🌱 I’m currently learning front end technologies
 - 💞️ I’m looking to collaborate on web apps
 - 📫 How to reach me Linkedin (Abdikadir Imano
